@@ -2,4 +2,8 @@ oneaa
 a
 aaaaa
 devdevdev
+<<<<<<< HEAD
 这是master分支的提交
+=======
+这是master分支的提交
+>>>>>>> feat
