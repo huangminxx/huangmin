@@ -2,7 +2,5 @@ oneaa
 a
 aaaaa
 devdevdev
-这是master分支的提交
-这是master分支的提交
 mmmmmmmmmmmm
 
